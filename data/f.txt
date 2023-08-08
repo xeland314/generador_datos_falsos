@@ -1,0 +1,25 @@
+{'nombre': 'Castro, Jaimes and Muñoz', 'descripcion': 'Maiores natus illum sit. Amet voluptate quibusdam.\nNobis debitis repudiandae hic vel nobis. Iste alias eum excepturi dignissimos provident. Voluptatem quia explicabo temporibus.'}
+{'nombre': 'Vergara-Londoño', 'descripcion': 'Harum eos cum voluptatem expedita. Quo temporibus illo. Reprehenderit et necessitatibus.\nConsectetur vitae dolorum. Necessitatibus iste voluptas.'}
+{'nombre': 'Rangel-Ramírez', 'descripcion': 'Quisquam nostrum delectus accusamus. Ad neque sapiente itaque iusto totam. Consequuntur consectetur dolor non delectus et repellat.'}
+{'nombre': 'Morales-Ruiz', 'descripcion': 'Voluptates quis nihil. Animi id beatae laborum ex assumenda similique.\nNam omnis tenetur tenetur molestiae optio. Magni officia delectus accusamus.'}
+{'nombre': 'Moreno Ltd', 'descripcion': 'Unde quam omnis eaque porro officia quaerat delectus. Quas quia nulla nulla. Facilis consectetur expedita. Ea in maxime tempora voluptatum.'}
+{'nombre': 'Cardona, Posada and Garcés', 'descripcion': 'Ab voluptatibus fugit aliquam asperiores iste. Tenetur ad vero non harum nisi quisquam.'}
+{'nombre': 'Murillo, Gonzáles and González', 'descripcion': 'Consequuntur explicabo doloremque asperiores. Sunt amet quam.\nTempore ea aperiam quas quae adipisci aut.\nTenetur et dolores laboriosam vero esse. Voluptatibus odio velit tempore minus dolorum.'}
+{'nombre': 'Monroy LLC', 'descripcion': 'Explicabo reiciendis laboriosam architecto aperiam aspernatur. Quidem optio quis rem incidunt quos. Quasi voluptatibus nisi architecto nulla. Deserunt nemo nostrum reprehenderit.'}
+{'nombre': 'Sierra LLC', 'descripcion': 'Tempore in assumenda possimus dicta ab voluptatum ducimus. Explicabo fugit nisi libero. Quas eum eum sequi deserunt.'}
+{'nombre': 'Ardila PLC', 'descripcion': 'Ducimus dignissimos perferendis libero eveniet corrupti. Esse voluptates possimus at voluptas. Temporibus illum soluta repellat provident totam accusantium.'}
+{'nombre': 'Hernández-Pérez', 'descripcion': 'Eveniet unde qui voluptatum id odit. Quasi facilis id voluptatem non ex itaque ipsa. Omnis consequuntur in occaecati reprehenderit animi.'}
+{'nombre': 'Gómez PLC', 'descripcion': 'Accusamus officiis facere consequatur pariatur. Exercitationem eos assumenda. Quo doloribus reiciendis delectus nostrum.'}
+{'nombre': 'Ramírez, Ortiz and Silva', 'descripcion': 'Et deserunt optio quasi. Eligendi consequatur impedit in.\nDolore porro officia nam. Consectetur modi vitae culpa distinctio id dolores.\nDoloremque cupiditate dolor. Adipisci reiciendis hic omnis.'}
+{'nombre': 'Peña-Mendoza', 'descripcion': 'Nemo recusandae voluptate nisi corrupti ducimus. Vitae ex animi.\nQuas quibusdam in ut. Illo sunt facere.'}
+{'nombre': 'Rentería-Giraldo', 'descripcion': 'Doloribus neque debitis officiis rem quo aliquid. Veniam distinctio dicta facilis ipsam provident pariatur incidunt.'}
+{'nombre': 'Murcia, Guerrero and Sánchez', 'descripcion': 'Porro eligendi ab cumque est praesentium doloribus ducimus. Sit molestiae ea eligendi ducimus cupiditate. Ducimus ipsam similique fuga totam.'}
+{'nombre': 'Rivera, Quiroga and Cárdenas', 'descripcion': 'At minima accusamus sequi architecto. Optio omnis sunt ipsa.\nEius sunt neque praesentium deleniti minima. Cupiditate in quibusdam aut. Voluptas quasi fugiat hic quae temporibus officiis.'}
+{'nombre': 'Ospina, Ortiz and Rivera', 'descripcion': 'Eos impedit dicta ratione. Excepturi quas deleniti nesciunt ex. Reprehenderit optio doloribus eligendi natus asperiores.\nSapiente eligendi saepe delectus est similique.'}
+{'nombre': 'Andrade PLC', 'descripcion': 'Incidunt eaque in veritatis. Ratione ut recusandae numquam tempore.'}
+{'nombre': 'Barbosa-Montoya', 'descripcion': 'Vitae praesentium temporibus doloremque porro. Nostrum distinctio dolor dolore atque molestiae illum.'}
+{'nombre': 'Alfonso, Hernández and Camacho', 'descripcion': 'Nobis consectetur asperiores dolorum facilis facere. Voluptate veniam eaque quaerat similique dolor. In sint veritatis ipsam tempore.\nOfficia alias aliquam. Nulla modi enim odio pariatur.'}
+{'nombre': 'Sandoval, Rivera and Chaparro', 'descripcion': 'Fugiat dolores repellendus saepe praesentium quaerat necessitatibus. Ab consectetur totam hic perferendis. Culpa non atque dignissimos inventore culpa labore.'}
+{'nombre': 'Jaramillo-Restrepo', 'descripcion': 'Placeat pariatur ipsum nihil sit modi. Explicabo animi distinctio tempora.\nDelectus saepe illum quod earum rem. Cum deleniti velit nisi aut.\nOfficia nulla blanditiis illum itaque vero quidem quam.'}
+{'nombre': 'Bolívar-Díaz', 'descripcion': 'Praesentium nostrum reiciendis minus debitis neque quaerat. Aliquid est aperiam ducimus.\nCulpa doloremque earum accusamus error dignissimos. Velit maxime aspernatur dolorem.'}
+{'nombre': 'Delgado PLC', 'descripcion': 'Soluta officia libero delectus amet eos.\nExpedita sequi nobis veniam. Nemo similique doloremque cumque architecto laudantium perferendis molestiae. Velit qui molestias nulla qui.'}

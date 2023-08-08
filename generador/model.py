@@ -64,16 +64,13 @@ class Model:
         """
         if existing_name not in self.__atributos:
             raise ValueError(f"No existe el atributo {existing_name} en el modelo.")
-        
+
         generador = self.__atributos[existing_name]
-        config = self.__argumentos.get(existing_name)
-        
+        config: dict = self.__argumentos.get(existing_name)
+
         self.__atributos[new_name] = generador
-        if config is None:
-            config = {}
-        else:
-            config = config.copy()
-        
+        config = {} if config is None else config.copy()
+
         config['copy_from'] = existing_name
         self.__argumentos[new_name] = config
 
